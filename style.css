@@ -1,6 +1,6 @@
 h1{
     font-size: 100px;
-    color: rgb(255, 0, 0);
+    color: white;
     text-align: center;
     background-color: black;
 }
@@ -8,4 +8,9 @@ p{
 text-align: center;
 font-size: 35px;
 background-color: rgb(240, 17, 17);
+color: white;
+}
+
+body{
+    background-color: black;
 }
